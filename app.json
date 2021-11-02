@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/MRK-YT/EvaMaria",
+    "website": "https://github.com/pp405810/newevamaria",
+    "repository": "https://github.com/pp405810/newevamaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
