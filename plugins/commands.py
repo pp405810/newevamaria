@@ -21,7 +21,7 @@ async def start(client, message):
     EVAMARIABOT = await client.get_me()
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('🎃 OWNER 🎃', url=f'http://t.me/TENTACION_BOTZ')
+            InlineKeyboardButton('➕ADD ME TO YOUR CHAT➕', url=f'http://t.me/EVAMARIAV3MOVIEBOt?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search 🔍', switch_inline_query_current_chat=''),
             InlineKeyboardButton('🔰 Deploy Now 🔰', url='https://telegra.ph/file/afd7058f259d23e9098fb.jpg')
